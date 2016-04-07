@@ -1,3 +1,4 @@
 This is just a sample    
-Feel free to use it :)
-I'm test1, adding my own line
+Feel free to use it :)    
+I'm test1, adding my own line    
+Okay, let's add another line
